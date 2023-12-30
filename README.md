@@ -1,3 +1,4 @@
+[![kashish281's GitHub | Stats](https://stats.quine.sh/kashish281/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kashish281)
 - 👋 Hi there, I’m Kashish Sinha. 
 - 👀 I’m a computer science undergrad at VIT Bhopal
 - 🌱 I like to learn new things related to any domain.
