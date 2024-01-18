@@ -7,6 +7,7 @@
 - 📫 Connect with me on linkedIn- (https://www.linkedin.com/in/kashish28)
   
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashish281&label=Profile%20views&color=0e75b6&style=flat" alt="kashish281" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish281&show_icons=true&locale=en" alt="kashish281" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashish281&" alt="kashish281" /></p>
 
 
 
