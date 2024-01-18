@@ -6,7 +6,7 @@
 - 💞️ I’m interested in web dev and machine learning.
 - 📫 How to reach me **kashishsin28@gmail.com**
   
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashish281&label=Profile%20views&color=0e75b6&style=flat" alt="kashish281" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
