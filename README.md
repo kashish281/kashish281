@@ -1,14 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Kashish Sinha</h1>
-<h3 align="center">A passionate web developer studying in VIT Bhopal</h3>
+<h3 align="center">Full stack web developer</h3>
 
 - 👀 I’m a computer science undergrad at VIT Bhopal
 - 🌱 I like to learn new things related to any domain.
 - 💞️ I’m interested in web dev and machine learning.
-- 📫 Connect with me on linkedIn- (https://www.linkedin.com/in/kashish28)
+- 📫 How to reach me **kashishsin28@gmail.com**
   
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashish281&label=Profile%20views&color=0e75b6&style=flat" alt="kashish281" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +19,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashish281&show_icons=true&locale=en&layout=compact" alt="kashish281" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashish281&show_icons=true&locale=en" alt="kashish281" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashish281&" alt="kashish281" /></p>
+
+
 
 
 
