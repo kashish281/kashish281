@@ -6,9 +6,7 @@
 - 💞️ I’m interested in web dev and machine learning.
 - 📫 How to reach me **kashishsin28@gmail.com**
 
-
-
-![github readme gif ](https://github.com/kashish281/kashish281/assets/130341436/fbcc5fe2-5c3c-4f48-bbb6-6477868e6825)
+<img align="right" alt="Coding" width="400" src="C:\Users\Kashish Sinha\Downloads\github readme gif  (1).gif">
 
 
   
