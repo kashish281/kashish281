@@ -2,10 +2,10 @@
 <h3 align="center">Full stack web developer</h3>
 
 - 👀 I’m a computer science undergrad at VIT Bhopal
-- 🌱 I like to learn new things related to tech.
+- 🌱 I like to learn new things related to tech.                                                                        <img src="https://private-user-images.githubusercontent.com/130341436/321733337-4971fc65-d600-4592-9ff1-7a25524efc4c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU1MTY0NjAsIm5iZiI6MTcxNTUxNjE2MCwicGF0aCI6Ii8xMzAzNDE0MzYvMzIxNzMzMzM3LTQ5NzFmYzY1LWQ2MDAtNDU5Mi05ZmYxLTdhMjU1MjRlZmM0Yy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxMlQxMjE2MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZTJhYTkxNmIxMTY4YTI2N2U1YjU3Nzc2ODE1NzgzYTA3OGYyZDVlMzUyMTc4ZTJjNGQwMjNhYmZmNGY4ZGU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.G91Pj2hxnDgqoTXUesqu7EbB0oYR-o4my_gF_9TD-hE" align="right" width="500" />
+
 - 💞️ I’m interested in web dev and machine learning.
 - 📫 How to reach me **kashishsin28@gmail.com**
-<img src="https://private-user-images.githubusercontent.com/130341436/321733337-4971fc65-d600-4592-9ff1-7a25524efc4c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU1MTY0NjAsIm5iZiI6MTcxNTUxNjE2MCwicGF0aCI6Ii8xMzAzNDE0MzYvMzIxNzMzMzM3LTQ5NzFmYzY1LWQ2MDAtNDU5Mi05ZmYxLTdhMjU1MjRlZmM0Yy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxMlQxMjE2MDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZTJhYTkxNmIxMTY4YTI2N2U1YjU3Nzc2ODE1NzgzYTA3OGYyZDVlMzUyMTc4ZTJjNGQwMjNhYmZmNGY4ZGU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.G91Pj2hxnDgqoTXUesqu7EbB0oYR-o4my_gF_9TD-hE" align="right" width="400" />
 
 
 
