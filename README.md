@@ -2,7 +2,7 @@
 <h3 align="center">Full stack web developer</h3>
 
 - 👀 I’m a computer science undergrad at VIT Bhopal
-- 🌱 I like to learn new things related to any domain.
+- 🌱 I like to learn new things related to tech.
 - 💞️ I’m interested in web dev and machine learning.
 - 📫 How to reach me **kashishsin28@gmail.com**
 
