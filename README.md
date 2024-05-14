@@ -31,7 +31,12 @@
 
 
 
+
+
 [![kashish281's GitHub | Stats](https://stats.quine.sh/kashish281/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kashish281)
+
+<img alt="github contribution grid snake animation" src="https://camo.githubusercontent.com/c09076c0ab5bfaf1bf0f39ecd9a2b95447094c289a2e14225b7602a4839b6279/68747470733a2f2f6765746c6f737430312e6769746875622e696f2f6769746875622d736e616b652e6769746875622e696f2f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667" data-canonical-src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+
 <!---
 kashish281/kashish281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
