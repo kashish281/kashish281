@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kashish Sinha</h1>
-<h3 align="center">MERN stack developer</h3>
+<h3 align="center">MERN STACK DEVELOPER</h3>
 
 - 👀 I’m a computer science undergrad at VIT Bhopal
 - 🌱 I like to learn new things related to tech.                     <img src="https://private-user-images.githubusercontent.com/130341436/321733337-4971fc65-d600-4592-9ff1-7a25524efc4c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc1MzEwMjcsIm5iZiI6MTcyNzUzMDcyNywicGF0aCI6Ii8xMzAzNDE0MzYvMzIxNzMzMzM3LTQ5NzFmYzY1LWQ2MDAtNDU5Mi05ZmYxLTdhMjU1MjRlZmM0Yy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkyOFQxMzM4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YzI0Y2Y3MzU5YzhjYTljZTZmNTE5NzhmYmYxNjAzODczMjJjM2ZkNzVjYWVlNGYwYzZjYjhmMmYzMTRiMmU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QPjoCpJ-BimDgPWySqbHEfOUYUPYxb8hBFOJsZRvzm8" align="right" width="450" />
